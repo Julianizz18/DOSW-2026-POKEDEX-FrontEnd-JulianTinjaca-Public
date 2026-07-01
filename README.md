@@ -16,24 +16,10 @@ Enlace al documento de contexto: pendiente por agregar.
 
 El manual de identidad define la paleta de colores (espacio profundo, teal, magenta y ámbar), la tipografía, la iconografía y la mascota de PokeNova, y debe respetarse en todas las pantallas de la aplicación para mantener una imagen visual coherente.
 
-Enlace o archivo del manual de identidad: pendiente por agregar.
+Enlace o archivo del manual de identidad: [Manual_Identidad_PokeNova_DOSW.pdf](docs/Manual_Identidad_PokeNova_DOSW.pdf)
 
 ## Prototipo en Figma
 
 El prototipo de las pantallas se diseñó siguiendo el manual de identidad de PokeNova.
 
 Enlace al prototipo en Figma: [PokeNova - responsive web app](https://www.figma.com/make/RPwQtNuCYn9GMcqQeE88KW/Pok%C3%A9Nova-responsive-web-app?t=FzQfogA7zXSRDZ6F-20&fullscreen=1)
-
-## Diagrama de componentes general
-
-Aquí se debe agregar el diagrama general de componentes de la interfaz, mostrando cómo se organizan las pantallas y los componentes reutilizables, por ejemplo la tarjeta de Pokémon, el menú de navegación, los formularios y el panel de filtros.
-
-Enlace o imagen del diagrama de componentes: pendiente por agregar.
-
-## Cómo ejecutar el proyecto
-
-Agregar aquí los pasos para instalar dependencias y levantar el frontend localmente.
-
-## Tecnologías usadas
-
-Agregar aquí el framework, las librerías y las demás herramientas usadas en el frontend.
